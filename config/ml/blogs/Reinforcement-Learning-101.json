@@ -1,0 +1,14 @@
+{
+  "expertise": "BEGINNER",
+  "version": 1,
+  "source": "medium",
+  "authorIds": [
+    "shweta_bhatt"
+  ],
+  "author": "Shweta Bhatt",
+  "title": "Reinforcement Learning 101",
+  "link": "https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292",
+  "tags": [
+    "theory"
+  ]
+}

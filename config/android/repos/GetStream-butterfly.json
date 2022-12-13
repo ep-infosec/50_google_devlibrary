@@ -1,0 +1,17 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": ["getstream"],
+  "owner": "GetStream",
+  "repo": "butterfly",
+  "name": "butterfly",
+  "shortDescription": "Butterfly helps you to build adaptive and responsive UIs for Android (including foldable devices) with Jetpack WindowManager. It supports useful functions for Jetpack Compose and LiveData integration.",
+  "longDescription": "Butterfly helps you to build adaptive and responsive UIs for Android (including foldable devices) with Jetpack WindowManager. It supports useful functions for Jetpack Compose and LiveData integration.",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "ui",
+    "compose"
+  ]
+}

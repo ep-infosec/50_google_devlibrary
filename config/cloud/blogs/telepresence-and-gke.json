@@ -1,0 +1,14 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "other",
+  "authorIds": [
+    "peteroneilljr"
+  ],
+  "author": "Peter ONeill",
+  "title": "Develop Go microservices on Google Kubernetes Engine with Telepresence",
+  "link": "https://cloud.google.com/community/tutorials/telepresence-and-gke",
+  "tags": [
+    "containers"
+  ]
+}

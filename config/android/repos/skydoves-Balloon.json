@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "skydoves"
+  ],
+  "owner": "skydoves",
+  "repo": "Balloon",
+  "name": "Balloon",
+  "shortDescription": "A lightweight popup like tooltips, fully customizable with arrow and animations.",
+  "longDescription": "A lightweight popup like tooltips, fully customizable with arrow and animations.",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "ui"
+  ]
+}

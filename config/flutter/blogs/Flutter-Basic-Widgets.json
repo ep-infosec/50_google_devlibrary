@@ -1,0 +1,14 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "medium",
+  "authorIds": [
+    "rahulkhatri19"
+  ],
+  "author": "Rahul Khatri",
+  "title": "Flutter Basic Widgets",
+  "link": "https://medium.com/flutter-community/flutter-basic-widgets-349e24140453",
+  "tags": [
+    "widgets"
+  ]
+}

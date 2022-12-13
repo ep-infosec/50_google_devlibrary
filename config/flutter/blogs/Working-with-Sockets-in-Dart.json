@@ -1,0 +1,14 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "medium",
+  "authorIds": [
+    "suragch"
+  ],
+  "author": "Suragch",
+  "title": "Working with Sockets in Dart",
+  "link": "https://medium.com/flutter-community/working-with-sockets-in-dart-15b443007bc9",
+  "tags": [
+    "mobile"
+  ]
+}

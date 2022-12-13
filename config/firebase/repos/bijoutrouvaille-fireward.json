@@ -1,0 +1,20 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "bijoutrouvaille"
+  ],
+  "owner": "bijoutrouvaille",
+  "repo": "fireward",
+  "name": "Fireward",
+  "shortDescription": "A concise and readable language for Firestore security rules, similar to Firebase Bolt.",
+  "longDescription": "A concise and readable language for Firestore security rules, similar to Firebase Bolt.",
+  "content": "readme.md",
+  "pages": [],
+  "tags": [
+    "android",
+    "ios",
+    "web"
+  ]
+}

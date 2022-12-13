@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "rishadappat"
+  ],
+  "owner": "rishadappat",
+  "repo": "Graphicov",
+  "name": "Graphicov",
+  "shortDescription": "A covid statistics Android application implemented using Koltin and MVVM Architecture",
+  "longDescription": "A covid statistics Android application implemented using Koltin and MVVM Architecture",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "modern-android-development"
+  ]
+}

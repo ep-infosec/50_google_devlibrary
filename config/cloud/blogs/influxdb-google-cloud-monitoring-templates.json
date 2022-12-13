@@ -1,0 +1,15 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "other",
+  "authorIds": [
+    "gunnaraasen",
+    "chobbs"
+  ],
+  "author": "Gunnar, Chris Hobbs",
+  "title": "Monitoring Google Cloud with InfluxDB templates",
+  "link": "https://cloud.google.com/community/tutorials/influxdb-google-cloud-monitoring-templates",
+  "tags": [
+    "operations"
+  ]
+}

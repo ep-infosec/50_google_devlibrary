@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "kshitizrimal"
+  ],
+  "owner": "kshitizrimal",
+  "repo": "Classification-Flutter-TFlite",
+  "name": "Classification-Flutter-TFlite",
+  "shortDescription": "Demo app which shows on device image classification using TFLite and Flutter",
+  "longDescription": "Demo app which shows on device image classification using TFLite and Flutter",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "mobile"
+  ]
+}

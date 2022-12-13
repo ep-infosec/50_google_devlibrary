@@ -1,0 +1,19 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "d3lm"
+  ],
+  "owner": "typebytes",
+  "repo": "angular-checklist",
+  "name": "angular-checklist",
+  "shortDescription": "angular-checklist",
+  "longDescription": "angular-checklist",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "components",
+    "frameworks"
+  ]
+}

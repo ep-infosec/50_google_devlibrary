@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "medium",
+  "authorIds": [
+    "vanessamarely"
+  ],
+  "author": "Vanessa Marely Aristizabal Angel",
+  "title": "NotasDeAngular",
+  "link": "https://medium.com/notasdeangular",
+  "tags": [
+    "components",
+    "frameworks",
+    "router",
+    "performance",
+    "gettingstarted"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "prescottprue"
+  ],
+  "owner": "prescottprue",
+  "repo": "generator-react-firebase",
+  "name": "generator-react-firebase",
+  "shortDescription": "React Firebase (Redux optional) yeoman generator.",
+  "longDescription": "React Firebase (Redux optional) yeoman generator.",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "web"
+  ]
+}

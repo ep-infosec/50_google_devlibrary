@@ -1,0 +1,19 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "deepdialog"
+  ],
+  "owner": "deepdialog",
+  "repo": "tfseg",
+  "name": "Chinese Word Segmentation with TensorFlow",
+  "shortDescription": "Using ALBERT to cut Chinese word into segmentation.",
+  "longDescription": "Using ALBERT to cut Chinese word into segmentation.",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "nlp",
+    "library"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "medium",
+  "authorIds": [
+    "kshitizrimal"
+  ],
+  "author": "Kshitiz Rimal",
+  "title": "Train your dog using TF-Agents",
+  "link": "https://medium.com/deep-learning-journals/train-your-dog-using-tf-agents-fba297a85baa",
+  "tags": [
+    "theory"
+  ]
+}

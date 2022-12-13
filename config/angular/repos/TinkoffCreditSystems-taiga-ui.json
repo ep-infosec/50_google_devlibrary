@@ -1,0 +1,19 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "waterplea"
+  ],
+  "owner": "TinkoffCreditSystems",
+  "repo": "taiga-ui",
+  "name": "Taiga UI",
+  "shortDescription": "Taiga UI is an Angular components library and a comprehensive UI kit spanning over 100 components and many helpful directives and utils.",
+  "longDescription": "Taiga UI is an Angular components library and a comprehensive UI kit spanning over 100 components and many helpful directives and utils.",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "components",
+    "frameworks"
+  ]
+}

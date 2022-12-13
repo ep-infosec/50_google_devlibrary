@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "akshaybahadur21"
+  ],
+  "owner": "akshaybahadur21",
+  "repo": "QuickDraw",
+  "name": "QuickDraw",
+  "shortDescription": "A simple real-time implementation of Google's Quick, Draw Project for humans. ",
+  "longDescription": "A simple real-time implementation of Google's Quick, Draw Project for humans. ",
+  "content": "readme.md",
+  "pages": [],
+  "tags": [
+    "vision"
+  ]
+}

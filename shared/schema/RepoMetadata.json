@@ -1,0 +1,97 @@
+{
+  "$id": "https://example.com/address.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "RepoMetadata",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "number",
+      "description": "Internal schema version"
+    },
+    "authorIds": {
+      "type": "array",
+      "description": "The Dev Library ID of the author(s)",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9\\-_]+$"
+      }
+    },
+    "owner": {
+      "type": "string",
+      "description": "GitHub owner/organization",
+      "pattern": "^[^\/]+$"
+    },
+    "repo": {
+      "type": "string",
+      "description": "GitHub repo name",
+      "pattern": "^[^\/]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name for the repo"
+    },
+    "shortDescription": {
+      "type": "string",
+      "description": "One line description"
+    },
+    "longDescription": {
+      "type": "string",
+      "description": "Two or three line description"
+    },
+    "content": {
+      "type": "string",
+      "description": "File name of the main markdown file in the repo (ex: README.md)",
+      "pattern": "^[\\w\\/\\.\\-]+$"
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Array of product-specific tags",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z-]+$"
+      }
+    },
+    "pages": {
+      "type": "array",
+      "description": "Information about additional pages in the project other than the main page.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the page, ex: 'Installation"
+          },
+          "path": {
+            "type": "string",
+            "description": "Path to the markdown file defining the page, ex: 'docs/installing.md'"
+          }
+        },
+        "required": ["name", "path"]
+      }
+    },
+    "links": {
+      "type": "array",
+      "description": "Links to important external project resources",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Name of the link"
+          },
+          "href": {
+            "type": "string",
+            "description": "Full external link"
+          }
+        },
+        "required": ["title", "href"]
+      }
+    },
+    "expertise": {
+      "type": "string",
+      "description": "The expertise of the articles or projects"
+    }
+  },
+  "required": [ "owner", "authorIds", "repo", "name", "shortDescription", "longDescription", "content", "tags", "expertise"]
+}

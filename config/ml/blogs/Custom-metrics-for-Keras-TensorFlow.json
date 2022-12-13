@@ -1,0 +1,14 @@
+{
+  "expertise": "BEGINNER",
+  "version": 1,
+  "source": "medium",
+  "authorIds": [
+    "arnaldog12"
+  ],
+  "author": "Arnaldo Gualberto",
+  "title": "Custom metrics for Keras/TensorFlow",
+  "link": "https://medium.com/analytics-vidhya/custom-metrics-for-keras-tensorflow-ae7036654e05",
+  "tags": [
+    "theory"
+  ]
+}

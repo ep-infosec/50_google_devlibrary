@@ -1,0 +1,18 @@
+{
+  "expertise": "INTERMEDIATE",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "csfrequency"
+  ],
+  "owner": "CSFrequency",
+  "repo": "react-firebase-hooks",
+  "name": "React Firebase Hooks",
+  "shortDescription": "React Hooks for Firebase.",
+  "longDescription": "React Hooks for Firebase.",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "web"
+  ]
+}

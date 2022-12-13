@@ -1,0 +1,18 @@
+{
+  "expertise": "BEGINNER",
+  "version": 1,
+  "source": "github",
+  "authorIds": [
+    "phansier"
+  ],
+  "owner": "phansier",
+  "repo": "FlowReactiveNetwork",
+  "name": "FlowReactiveNetwork",
+  "shortDescription": "Android library listening network connection state and Internet connectivity with Coroutines Flow",
+  "longDescription": "Android library listening network connection state and Internet connectivity with Coroutines Flow",
+  "content": "README.md",
+  "pages": [],
+  "tags": [
+    "modern-android-development"
+  ]
+}
